@@ -1,0 +1,11 @@
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\bin\Debug\net7.0\Entidades.dll
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\bin\Debug\net7.0\Entidades.pdb
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.dll
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\Entidades.pdb
+C:\Users\erikl\OneDrive\Escritorio\PP_Escaner_LujanErik\PP_Escaner\obj\Debug\net7.0\ref\Entidades.dll
